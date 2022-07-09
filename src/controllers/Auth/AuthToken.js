@@ -1,5 +1,5 @@
 /* Util */
-import { InternalServerError } from "../services/Util.js";
+import { InternalServerError } from "../../services/Util.js";
 
 /* imports */
 import axios from "axios";
