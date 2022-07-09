@@ -1,10 +1,11 @@
 {
   "type": "module",
-  "name": "backend",
+  "name": "discord-oauth2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./src/router.js",
     "dev": "nodemon ./src/router.js"
   },
   "keywords": [],
